@@ -1,0 +1,15 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor cruft
+*.swp
+*.bak
+*~
+.vscode/
+.idea/
+
+# Don't accidentally commit local previews or backup HTMLs
+*.pre-chomsky.bak.html
+*-preview.html
